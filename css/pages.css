@@ -1,0 +1,168 @@
+/*********************
+Overview Content
+*********************/
+
+nav ul {
+  width: 780px;
+  list-style: none;
+  padding: 0;
+  float: right;
+  margin: 65px 20px 60px 0px;
+ 
+}
+
+#nav li {
+  float: left;
+  margin: 0px 0px 0px 30px;
+  padding: 10px 65px 10px 0px;
+  font-size: 11px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  border-top-style: dotted;
+  border-bottom-style: dotted;
+  border-width: 1.75px;
+  border-color: #2E2B2B;
+  
+}
+
+#nav li:first-child {
+	margin-left: 0;
+	padding-left: 0px;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-color: #2E2B2B;
+	padding-bottom: 8px;
+}
+
+
+#content {
+	width: 940px;
+	margin: 10px auto;
+	float: left;
+	margin-top: 10px;
+	border-top-style: dotted;
+	border-width: 1.75px;
+	border-color: #2E2B2B;
+	padding-left: 0;
+	}
+	
+#content ul {
+	width: 800px;
+	float: left;
+	list-style: none;
+	margin-right: 20px;
+	margin-bottom: 50px;
+}
+
+#content li {
+	float: left;
+	margin: 0px 60px 0px -40px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	line-height: 25px;
+	color: #94D2C2;
+	
+}
+
+#content li:first-child {
+	font-family: 'Muli', sans-serif;
+	font-size: 15px;
+	line-height: 17px;
+	color: #FBF9F4;
+	margin-top: 3px;
+}
+
+.video {
+	float: left;
+	margin: 0px 20px 30px 0px;
+	}
+
+.video:nth-of-type(3n+3) {
+	margin: 0;
+}
+
+	
+.video:last-child {
+	margin-bottom: 50px;
+	}
+
+
+
+.video p {
+	font-family: 'Muli', sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	line-height: 17px;
+	color: #94D2C2;
+	margin-top: 5px;
+	}
+	
+
+	
+/*********************
+project Content
+*********************/
+	
+
+#feature {
+	float:left;
+	width: 940px;
+	border-top-style: dotted;
+    border-width: 1.75px;
+    border-color: #2E2B2B;
+    padding-top:5px;
+}
+
+#feature img:first-child {
+	float: left;
+	margin: 9px 5px 0px 0px;
+}
+
+#feature p {
+	float: left;
+	margin: 3px 0px 0px 0px;
+	font-family: 'Montserrat' ,sans-serif;
+	font-size: 9px;
+	line-height: 25px;
+	color: #94D2C2;
+}
+
+
+#feature p:nth-child(3) {
+	float: right;
+
+}
+
+#feature p:nth-child(4) {
+	float: right;
+	margin-right: 20px;
+	}
+
+#feature section:first-child {
+	margin-bottom: 50px;
+}
+
+section h1 {
+	font-family: 'Muli', sans-serif;
+	color: #94D2C2;
+	line-height: 17px;
+	font-size: 30px;
+}
+
+#details img {
+	float: left;
+	margin: 0px 20px 30px 0px;
+}
+
+#details h3 {
+	float: right;
+}
+
+
+
+
+
+
+
+	
